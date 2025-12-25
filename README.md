@@ -1,4 +1,4 @@
-# Employee Salary Analyzer (C# Console App)
+## Employee Salary Analyzer (C# Console App)
 
 ## 📌 Description
 Employee Salary Analyzer is a beginner-friendly C# console application that helps analyze salary data of employees.  
